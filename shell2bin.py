@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#Referenced "Malware Analyst’s "Cookbook
+#Referenced "Malware Analyst’s Cookbook"
 
 import re
 import sys
