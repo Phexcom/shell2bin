@@ -9,4 +9,6 @@ Converting ShellCode to Binary
 
 Save a copy of the binary data (shellcode.bin) to your current working directory
 
+#Referenced "Malware Analyst’s "Cookbook
+
 
